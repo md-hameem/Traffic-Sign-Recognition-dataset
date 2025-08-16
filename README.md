@@ -58,7 +58,7 @@ In this project, we build and train a deep learning model to recognize and class
 To train the model, simply run the following script:
 
 ```bash
-python train_model.py
+python Traffic Sign Recognition Project.ipynb
 ```
 
 This will load the dataset, apply data augmentation, and train the model on the traffic sign classification task. The trained model will be saved in the `models/` directory.
